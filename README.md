@@ -124,7 +124,3 @@ Returns a list of all registered users.
 **DELETE** `/tasks/{id}/`
 
 ---
-
-## Submission Deadline
-
-**17-Jan-2026 before 04:00 PM**
